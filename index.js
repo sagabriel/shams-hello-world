@@ -1,3 +1,3 @@
-exports.f = function(req, res) {
+exports.sham = function(req, res) {
   res.send("Hello World!");
 };
