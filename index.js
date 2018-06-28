@@ -1,3 +1,3 @@
 exports.f = function(req, res) {
-  res.send("hello, gcf!");
+  res.send("Hello World!");
 };
